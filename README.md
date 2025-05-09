@@ -22,7 +22,7 @@ These instructions will get your project running locally.
 git clone https://github.com/suzubu/nike-clone-landingpage-showcase.git
 
 # 2. Navigate into the project folder
-cd nike-landing-page
+cd nike-clone-landingpage-showcase
 
 # 3. Install dependencies
 npm install
