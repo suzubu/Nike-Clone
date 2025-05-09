@@ -1,4 +1,4 @@
-# 👟 Nike Landing Page • Showcase
+# 👟 Nike Landing Page - Showcase
 
 > A modern Nike product landing page clone showcasing responsive layout, component design, and dynamic visuals.
 
@@ -19,7 +19,7 @@ These instructions will get your project running locally.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/nike-landing-page.git
+git clone https://github.com/suzubu/nike-clone-landingpage-showcase.git
 
 # 2. Navigate into the project folder
 cd nike-landing-page
