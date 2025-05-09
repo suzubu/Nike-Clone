@@ -1,8 +1,110 @@
-# React + Vite
+# 👟 Nike Landing Page • Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern Nike product landing page clone showcasing responsive layout, component design, and dynamic visuals.
 
-Currently, two official plugins are available:
+This is a fully responsive front-end project recreating a Nike product promo experience using React, TailwindCSS, and Vite. It demonstrates clean UI component structure, modular sections, and animated interactivity across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🖼 Preview
+
+![App Preview](media/nike-clone-demo.gif)
+
+
+---
+
+## ⚙️ Getting Started
+
+These instructions will get your project running locally.
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/yourname/nike-landing-page.git
+
+# 2. Navigate into the project folder
+cd nike-landing-page
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the app
+npm run dev
+```
+
+> Built with:  
+> - [React](https://reactjs.org/)  
+> - [Vite](https://vitejs.dev/)  
+> - [TailwindCSS v4](https://tailwindcss.com/)
+
+---
+
+## ✨ Features
+
+- ✅ Responsive layout with modern component styling
+- 🔁 Interactive shoe gallery and dynamic content switching
+- 💾 Utility-first styling via Tailwind
+- 🌗 Scroll-driven sections and mobile-friendly design
+
+---
+
+## 💡 Dev Notes
+
+- Modular structure with `components/` and `sections/` folders
+- Tailwind v4 for consistent design tokens and responsive behavior
+- Asset-based props for flexible UI components (e.g., product cards)
+
+---
+
+## 📚 Inspiration / Credits
+
+This project was inspired by:
+
+- [Nike.com](https://nike.com)
+- [JSMastery](https://www.youtube.com/watch?v=tS7upsfuxmo)
+- Modern React showcase UI kits
+
+---
+
+## 🧪 Known Issues
+
+- ❌ Static data only — no e-commerce functionality
+- 🔍 No animation library — simple transitions only
+
+---
+
+## 🔭 Roadmap / TODO
+
+- [ ] Add animation via Framer Motion or GSAP
+- [ ] Consider integrating CMS for dynamic product data
+- [ ] Add mobile menu and cart UI
+
+---
+
+## 📂 Folder Structure
+
+```bash
+nike-landing-page/
+├── public/
+│   └── assets/
+├── src/
+│   ├── components/
+│   ├── sections/
+│   ├── constants/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+└── README.md
+```
+
+---
+
+## 📜 License
+
+MIT — feel free to use and adapt!
+
+---
+
+## 🙋‍♀️ Author
+
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu)  
